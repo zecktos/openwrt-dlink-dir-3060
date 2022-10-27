@@ -1,5 +1,5 @@
 # openwrt dlink dir 3060
-this repo holds a patch to build current openwrt for the dlink dir 3060.  
+this repo holds [pre-built openwrt firmware](https://github.com/zecktos/openwrt-dlink-dir-3060/releases) and a patch to build current openwrt for the dlink dir 3060.  
 All the work was made by Lucky1 in the [openwrt forum](https://forum.openwrt.org/t/adding-openwrt-support-for-dir-3060/94335/42). I just made a patch file out of it.  
 
 ## build
