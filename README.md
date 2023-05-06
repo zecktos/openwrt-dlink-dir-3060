@@ -13,7 +13,7 @@ Select code revision
 ```
 git branch -a
 git tag
-git checkout v22.03.4
+git checkout v22.03.5
 ```
 Download and apply patch
 ```
