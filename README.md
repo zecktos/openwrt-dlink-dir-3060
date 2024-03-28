@@ -11,7 +11,7 @@ git pull
  ```
 Select code revision
 ```
-git branch -a
+git fetch -t
 git tag
 git checkout v22.03.5
 ```
